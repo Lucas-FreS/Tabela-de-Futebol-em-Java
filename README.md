@@ -1,7 +1,3 @@
-Claro! Aqui está um modelo de README simples para o seu repositório no GitHub:
-
----
-
 # Tabela de Futebol em Java
 
 Este projeto em Java cria uma tabela de liga de futebol, acompanha partidas e classifica os times com base em pontos e saldo de gols. Se os times tiverem o mesmo nome, eles são diferenciados por números. Ao final, o usuário pode salvar a tabela em um arquivo `.txt` com um nome personalizado.
